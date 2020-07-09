@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyBook</string>
+
+    <string name="text_welcome"><u><b>فیصل</b></u></string>
+</resources>
